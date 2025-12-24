@@ -672,7 +672,7 @@ to find an alternative output format that is suitable.
 .
 */
 
-#define SELECT_VECS &x86_64_elf64_vec, &x86_64_pe_vec, &x86_64_pe_big_vec, &x86_64_pei_vec
+#define SELECT_VECS &x86_64_elf64_vec, &x86_64_pe_vec, &x86_64_pe_big_vec, &x86_64_pei_vec, &nios2_elf32_be_vec, &nios2_elf32_le_vec
 
 /* All known xvecs (even those that don't compile on all systems).
    Alphabetized for easy reference.

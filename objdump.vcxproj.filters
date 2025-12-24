@@ -714,10 +714,10 @@
     <ClCompile Include="getopt-for-windows\getopt.c">
       <Filter>Resource Files</Filter>
     </ClCompile>
-    <ClCompile Include="elf32-nios2.c">
+    <ClCompile Include="cpu-nios2.c">
       <Filter>Resource Files</Filter>
     </ClCompile>
-    <ClCompile Include="cpu-nios2.c">
+    <ClCompile Include="elf32-nios2.c">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>

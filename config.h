@@ -10,7 +10,7 @@
 
 // Added
 #define DEFAULT_FOR_FOLLOW_LINKS 1
-#define TARGET "x86_64-pc-linux-gnu"
+#define TARGET "elf64-x86-64"
 #define DEBUGDIR "/usr/local/lib/debug"
 #define REPORT_BUGS_TO "<https://sourceware.org/bugzilla/>"
 #define LOCALEDIR "/locale"

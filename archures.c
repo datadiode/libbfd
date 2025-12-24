@@ -19,7 +19,7 @@
    Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston,
    MA 02110-1301, USA.  */
 
-#define SELECT_ARCHITECTURES 0
+#define SELECT_ARCHITECTURES &bfd_nios2_arch
 
 #include "sysdep.h"
 #include "bfd.h"
