@@ -367,6 +367,9 @@
     <ClInclude Include="elfcore.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="getopt-for-windows\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="compress.c">
@@ -703,6 +706,9 @@
       <Filter>Resource Files</Filter>
     </ClCompile>
     <ClCompile Include="elf-vxworks.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="getopt-for-windows\getopt.c">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -29,6 +29,8 @@ Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA 02110-1301, USA. 
 extern "C" {
 #endif
 
+#include <stddef.h>
+
 /* Every source file includes this file,
    so they will all get the switch for lint.  */
 /* LINTLIBRARY */

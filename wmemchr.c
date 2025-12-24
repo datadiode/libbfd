@@ -19,6 +19,6 @@
 
 /* Specification.  */
 
-//#include <wchar.h>
+#include <stddef.h>
 
 #include "wmemchr-impl.h"

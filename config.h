@@ -30,7 +30,7 @@
 
 /* Define to 1 if translation of program messages to the user's native
    language is requested. */
-#define ENABLE_NLS 1
+//#define ENABLE_NLS 1
 
 /* Define to 1 if you have the declaration of `asprintf', and to 0 if you
    don't. */

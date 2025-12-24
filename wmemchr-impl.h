@@ -15,9 +15,9 @@
    You should have received a copy of the GNU Lesser General Public License
    along with this program.  If not, see <https://www.gnu.org/licenses/>.  */
 
-typedef int wchar_t;
-typedef unsigned long long size_t;
-#define NULL 0
+//typedef int wchar_t;
+//typedef unsigned long long size_t;
+//#define NULL 0
 
 wchar_t *
 wmemchr (const wchar_t *s, wchar_t c, size_t n)
